@@ -38,10 +38,10 @@ public class Radio_Boton extends JFrame implements ChangeListener{
         }
     }
     public static void main(String [] args){
-        Radio_Boton formulario = new Radio_Boton();
-        formulario.setBounds(0,0,300,200);
-        formulario.setVisible(true);
-        formulario.setResizable(false);
-        formulario.setLocationRelativeTo(null);
+        Radio_Boton formulary = new Radio_Boton();
+        formulary.setBounds(0,0,300,200);
+        formulary.setVisible(true);
+        formulary.setResizable(false);
+        formulary.setLocationRelativeTo(null);
     }
 }
